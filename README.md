@@ -39,9 +39,5 @@ The program will print a sentence describing the detected objects based on their
 This program uses the cvlib library, which is a high-level computer vision library built on top of OpenCV. For more information about cvlib, visit: https://github.com/arunponnusamy/cvlib  
 The development of this object detection program was based on learning from online educational resources, including the video tutorial available at https://www.youtube.com/watch?v=V62M9d8QkYM, and further customized to suit specific requirements.  
 
-
-# License
-This program is open-source and released under the MIT License. Feel free to use, modify, and distribute the code as per the terms of the license.
-
 # Disclaimer
 This program is provided as-is, without any warranties or guarantees. The authors are not responsible for any misuse, damage, or harm caused by the program. Use it at your own risk. Always be cautious when working with live video feeds and cameras.
