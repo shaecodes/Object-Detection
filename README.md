@@ -4,26 +4,26 @@ This Python program captures live video from a camera and performs object detect
 # Prerequisites
 Before running the program, make sure you have the following dependencies installed:
 
-Python 3.x  
+- Python 3.x  
 
-OpenCV (cv2) library  
+- OpenCV (cv2) library  
 
-cvlib library  
+- cvlib library  
 
-cvlib's object_detection module  
+- cvlib's object_detection module  
 
 You can install the required libraries using pip, for example:  
 
 
-css  
+- css  
 
-Copy code  
+- Copy code  
 
-pip install opencv-python  
+- pip install opencv-python  
 
-pip install cvlib  
+- pip install cvlib  
 
-pip install cvlib[object_detection]  
+- pip install cvlib[object_detection]  
 
 # Usage  
 
