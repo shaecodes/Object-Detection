@@ -36,7 +36,8 @@ Press the spacebar to stop the program and close the camera window.
 The program will print a sentence describing the detected objects based on their labels.  
 
 # Credits
-This program uses the cvlib library, which is a high-level computer vision library built on top of OpenCV. For more information about cvlib, visit: https://github.com/arunponnusamy/cvlib  
+This program uses the cvlib library, which is a high-level computer vision library built on top of OpenCV. For more information about cvlib, visit: https://github.com/arunponnusamy/cvlib    
+
 The development of this object detection program was based on learning from online educational resources, including the video tutorial available at https://www.youtube.com/watch?v=V62M9d8QkYM, and further customized to suit specific requirements.  
 
 # Disclaimer
