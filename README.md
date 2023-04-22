@@ -14,11 +14,6 @@ Before running the program, make sure you have the following dependencies instal
 
 You can install the required libraries using pip, for example:  
 
-
-- css  
-
-- Copy code  
-
 - pip install opencv-python  
 
 - pip install cvlib  
@@ -33,10 +28,6 @@ Connect a camera to your machine or use the built-in camera of your device.
 
 
 Run the object_detection.py script using Python 3.x:  
-
-Copy code  
-
-python object_detection.py  
 
 The program will open a window titled "Object Detection" showing the live video feed from the camera. Detected objects will be displayed with bounding boxes and labels.  
 
